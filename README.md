@@ -27,26 +27,27 @@ I prefer not to mention
 ## Code 301 - Intermediate Software Development
 | **Number** | **Name and Link** |
 |------------|-------------------|
-| *Read01* |[SMACSS and Responsive Web Design](https://hadeaji.github.io/reading-notes/Read01)|
-| *Read02* |[jQuery, Events, and The DOM](https://hadeaji.github.io/reading-notes/Read02)|
-| *Read03* |[Flexbox and Templating](https://hadeaji.github.io/reading-notes/Read03)|
-| *Read04* |[Responsive Web Design and Regular Expressions](https://hadeaji.github.io/reading-notes/Read04)|
-| *Read05* |[HEROKU](https://hadeaji.github.io/reading-notes/Read05)|
-| *Read06* |[Node, Express, and APIs](https://hadeaji.github.io/reading-notes/Read06)|
-| *Read07* |[APIs continued](https://hadeaji.github.io/reading-notes/Read07)|
-| *Read08* |[SQL](https://hadeaji.github.io/reading-notes/Read08)|
-| *Read09* |[Refactoring](https://hadeaji.github.io/reading-notes/Read09)|
-| *Read10* |[The Call Stack](https://hadeaji.github.io/reading-notes/Read10)|
-| *Read11* |[EJS](https://hadeaji.github.io/reading-notes/Read11)|
-| *Read12* |[Components](https://hadeaji.github.io/reading-notes/Read12)|
-| *Read13* |[Update/Delete](https://hadeaji.github.io/reading-notes/Read13)|
-| *Read14a* |[DB Normalization](https://hadeaji.github.io/reading-notes/Read14a)|
-| *Read14b* |[Project Idea](https://hadeaji.github.io/reading-notes/Read14b)|
-| *Read15* |[Diversity and Inclusion](https://hadeaji.github.io/reading-notes/Read15)|
+| *Read01* |[SMACSS and Responsive Web Design](https://hadeaji.github.io/reading-notes-301/Read01)|
+| *Read02* |[jQuery, Events, and The DOM](https://hadeaji.github.io/reading-notes-301/Read02)|
+| *Read03* |[Flexbox and Templating](https://hadeaji.github.io/reading-notes-301/Read03)|
+| *Read04* |[Responsive Web Design and Regular Expressions](https://hadeaji.github.io/reading-notes-301/Read04)|
+| *Read05* |[HEROKU](https://hadeaji.github.io/reading-notes-301/Read05)|
+| *Read06* |[Node, Express, and APIs](https://hadeaji.github.io/reading-notes-301/Read06)|
+| *Read07* |[APIs continued](https://hadeaji.github.io/reading-notes-301/Read07)|
+| *Read08* |[SQL](https://hadeaji.github.io/reading-notes-301/Read08)|
+| *Read09* |[Refactoring](https://hadeaji.github.io/reading-notes-301/Read09)|
+| *Read10* |[The Call Stack](https://hadeaji.github.io/reading-notes-301/Read10)|
+| *Read11* |[EJS](https://hadeaji.github.io/reading-notes-301/Read11)|
+| *Read12* |[Components](https://hadeaji.github.io/reading-notes-301/Read12)|
+| *Read13* |[Update/Delete](https://hadeaji.github.io/reading-notes-301/Read13)|
+| *Read14a* |[DB Normalization](https://hadeaji.github.io/reading-notes-301/Read14a)|
+| *Read14b* |[Project Idea](https://hadeaji.github.io/reading-notes-301/Read14b)|
+| *Read15* |[Diversity and Inclusion](https://hadeaji.github.io/reading-notes-301/Read15)|
 
 
 ## Code 401 - Advanced Software Development
 
 | **Number** | **Name and Link** |
 |------------|-------------------|
+| *Read01* |[Topic](https://hadeaji.github.io/reading-notes/Read01)|
 
