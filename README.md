@@ -45,7 +45,6 @@ I prefer not to mention
 | *Read14b* |[Project Idea](https://hadeaji.github.io/reading-notes-301/Read14b)|
 | *Read15* |[Diversity and Inclusion](https://hadeaji.github.io/reading-notes-301/Read15)|
 
-
 ## Code 401 - Advanced Software Development
 
 | **Number** | **Name and Link** |
