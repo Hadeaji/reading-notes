@@ -50,4 +50,4 @@ I prefer not to mention
 | **Number** | **Name and Link** |
 |------------|-------------------|
 | *Read01* |[Topic](https://hadeaji.github.io/reading-notes/Read01)|
-
+| *Read02* |[Testing and Modules](https://hadeaji.github.io/reading-notes/Read02)|
