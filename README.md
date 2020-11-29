@@ -25,6 +25,7 @@ I prefer not to mention
 
 
 ## Code 301 - Intermediate Software Development
+
 | **Number** | **Name and Link** |
 |------------|-------------------|
 | *Read01* |[SMACSS and Responsive Web Design](https://hadeaji.github.io/reading-notes-301/Read01)|
