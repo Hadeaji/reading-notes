@@ -23,7 +23,6 @@ I prefer not to mention
 | *Read14a* |[CSS Transforms, Transitions, and Animations](https://hadeaji.github.io/reading-notes-201/Read14a)|
 | *Read14b* |[What Google Learned About Teams](https://hadeaji.github.io/reading-notes-201/Read14b)|
 
-
 ## Code 301 - Intermediate Software Development
 
 | **Number** | **Name and Link** |
@@ -51,3 +50,4 @@ I prefer not to mention
 |------------|-------------------|
 | *Read01* |[Topic](https://hadeaji.github.io/reading-notes/Read01)|
 | *Read02* |[Testing and Modules](https://hadeaji.github.io/reading-notes/Read02)|
+| *Read03* |[FileIO & Exceptions](https://hadeaji.github.io/reading-notes/Read03)|
