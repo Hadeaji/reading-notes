@@ -280,4 +280,4 @@ The result will be as the following:
 
 ## The Whole structure Of It:
 
-![image](assets/Read03.png)
+![image](assets/Read03.webp)
