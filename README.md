@@ -51,3 +51,4 @@ I prefer not to mention
 | *Read01* |[Topic](https://hadeaji.github.io/reading-notes/Read01)|
 | *Read02* |[Testing and Modules](https://hadeaji.github.io/reading-notes/Read02)|
 | *Read03* |[FileIO & Exceptions](https://hadeaji.github.io/reading-notes/Read03)|
+| *Read04* |[Classes and Objects](https://hadeaji.github.io/reading-notes/Read04)|
