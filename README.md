@@ -54,3 +54,4 @@ I prefer not to mention
 | *Read04* |[Classes and Objects](https://hadeaji.github.io/reading-notes/Read04)|
 | *Read05* |[Linked Lists](https://hadeaji.github.io/reading-notes/Read05)|
 | *Read06* |[Game of Greed 1](https://hadeaji.github.io/reading-notes/Read06)|
+| *Read06* |[Game of Greed 2](https://hadeaji.github.io/reading-notes/Read07)|

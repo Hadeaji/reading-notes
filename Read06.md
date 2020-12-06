@@ -62,7 +62,7 @@ There are different sets of risks:
 
 ### Risk Assessment
 
-![image](assets/Read06.jpg)
+![image](assets/Read06.png)
 
 #### The perspective of Risk Assessment
 
