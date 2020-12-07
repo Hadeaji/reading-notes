@@ -1,6 +1,4 @@
-# Game of Greed 2
-
-## Python Scope
+# Python Scope
 
 ### Modules: The Global Scope
 

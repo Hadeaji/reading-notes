@@ -1,6 +1,4 @@
-# Game of Greed 1
-
-## How to use the Randomize
+# How to use the Randomize
 
 In case you want to implement a random function or give a random number value **The Random module** contains some very useful functions.
 
