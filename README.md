@@ -57,3 +57,4 @@ I prefer not to mention
 | *Read07* |[Python Scope](https://hadeaji.github.io/reading-notes/Read07)|
 | *Read08* |[List Comprehensions](https://hadeaji.github.io/reading-notes/Read08)|
 | *Read09* |[Dunder Methods](https://hadeaji.github.io/reading-notes/Read09)|
+| *Read10* |[Stacks & Queues](https://hadeaji.github.io/reading-notes/Read10)|
