@@ -59,3 +59,4 @@ I prefer not to mention
 | *Read09* |[Dunder Methods](https://hadeaji.github.io/reading-notes/Read09)|
 | *Read10* |[Stacks & Queues](https://hadeaji.github.io/reading-notes/Read10)|
 | *Read11* |[Data Analysis](https://hadeaji.github.io/reading-notes/Read11)|
+| *Read12* |[Pandas](https://hadeaji.github.io/reading-notes/Read12)|
