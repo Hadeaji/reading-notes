@@ -60,3 +60,4 @@ I prefer not to mention
 | *Read10* |[Stacks & Queues](https://hadeaji.github.io/reading-notes/Read10)|
 | *Read11* |[Data Analysis](https://hadeaji.github.io/reading-notes/Read11)|
 | *Read12* |[Pandas](https://hadeaji.github.io/reading-notes/Read12)|
+| *Read13* |[Linear Regressions](https://hadeaji.github.io/reading-notes/Read13)|
