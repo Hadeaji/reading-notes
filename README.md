@@ -61,3 +61,4 @@ I prefer not to mention
 | *Read11* |[Data Analysis](https://hadeaji.github.io/reading-notes/Read11)|
 | *Read12* |[Pandas](https://hadeaji.github.io/reading-notes/Read12)|
 | *Read13* |[Linear Regressions](https://hadeaji.github.io/reading-notes/Read13)|
+| *Read14* |[Data Visualization](https://hadeaji.github.io/reading-notes/Read14)|
