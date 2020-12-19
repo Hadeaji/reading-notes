@@ -63,3 +63,4 @@ I prefer not to mention
 | *Read13* |[Linear Regressions](https://hadeaji.github.io/reading-notes/Read13)|
 | *Read14* |[Data Visualization](https://hadeaji.github.io/reading-notes/Read14)|
 | *Read15* |[Trees](https://hadeaji.github.io/reading-notes/Read15)|
+| *Read16* |[Machine Learning Intro](https://hadeaji.github.io/reading-notes/Read16)|
