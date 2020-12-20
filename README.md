@@ -64,4 +64,4 @@ I prefer not to mention
 | *Read14* |[Data Visualization](https://hadeaji.github.io/reading-notes/Read14)|
 | *Read15* |[Trees](https://hadeaji.github.io/reading-notes/Read15)|
 | *Read16* |[Machine Learning Intro](https://hadeaji.github.io/reading-notes/Read16)|
-| *Read16* |[Web Scraping](https://hadeaji.github.io/reading-notes/Read16)|
+| *Read17* |[Web Scraping](https://hadeaji.github.io/reading-notes/Read17)|
