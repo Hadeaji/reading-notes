@@ -65,3 +65,4 @@ I prefer not to mention
 | *Read15* |[Trees](https://hadeaji.github.io/reading-notes/Read15)|
 | *Read16* |[Machine Learning Intro](https://hadeaji.github.io/reading-notes/Read16)|
 | *Read17* |[Web Scraping](https://hadeaji.github.io/reading-notes/Read17)|
+| *Read18* |[Cryptography](https://hadeaji.github.io/reading-notes/Read18)|
