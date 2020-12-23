@@ -66,3 +66,4 @@ I prefer not to mention
 | *Read16* |[Machine Learning Intro](https://hadeaji.github.io/reading-notes/Read16)|
 | *Read17* |[Web Scraping](https://hadeaji.github.io/reading-notes/Read17)|
 | *Read18* |[Cryptography](https://hadeaji.github.io/reading-notes/Read18)|
+| *Read19* |[Automation](https://hadeaji.github.io/reading-notes/Read19)|
