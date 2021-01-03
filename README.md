@@ -68,3 +68,4 @@ I prefer not to mention
 | *Read18* |[Cryptography](https://hadeaji.github.io/reading-notes/Read18)|
 | *Read19* |[Automation](https://hadeaji.github.io/reading-notes/Read19)|
 | *Read26* |[Django](https://hadeaji.github.io/reading-notes/Read26)|
+| *Read27* |[Django Models](https://hadeaji.github.io/reading-notes/Read27)|
