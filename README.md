@@ -70,3 +70,4 @@ I prefer not to mention
 | *Read26* |[Django](https://hadeaji.github.io/reading-notes/Read26)|
 | *Read27* |[Django Models](https://hadeaji.github.io/reading-notes/Read27)|
 | *Read28* |[Django CRUD and Forms](https://hadeaji.github.io/reading-notes/Read28)|
+| *Read29* |[Django Custom User](https://hadeaji.github.io/reading-notes/Read29)|
