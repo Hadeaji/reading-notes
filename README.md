@@ -74,3 +74,4 @@ I prefer not to mention
 | *Read30* |[Hashtables](https://hadeaji.github.io/reading-notes/Read30)|
 | *Read31* |[REST Framework & Docker](https://hadeaji.github.io/reading-notes/Read31)|
 | *Read32* |[Permissions & Postgresql](https://hadeaji.github.io/reading-notes/Read32)|
+| *Read33* |[Authentication & Production Server](https://hadeaji.github.io/reading-notes/Read33)|
