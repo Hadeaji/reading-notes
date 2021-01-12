@@ -75,3 +75,4 @@ I prefer not to mention
 | *Read31* |[REST Framework & Docker](https://hadeaji.github.io/reading-notes/Read31)|
 | *Read32* |[Permissions & Postgresql](https://hadeaji.github.io/reading-notes/Read32)|
 | *Read33* |[Authentication & Production Server](https://hadeaji.github.io/reading-notes/Read33)|
+| *Read34* |[API Deployment](https://hadeaji.github.io/reading-notes/Read34)|
