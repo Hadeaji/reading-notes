@@ -76,3 +76,4 @@ I prefer not to mention
 | *Read32* |[Permissions & Postgresql](https://hadeaji.github.io/reading-notes/Read32)|
 | *Read33* |[Authentication & Production Server](https://hadeaji.github.io/reading-notes/Read33)|
 | *Read34* |[API Deployment](https://hadeaji.github.io/reading-notes/Read34)|
+| *Read35* |[Graphs](https://hadeaji.github.io/reading-notes/Read35)|
