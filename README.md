@@ -79,3 +79,4 @@ I prefer not to mention
 | *Read35* |[Graphs](https://hadeaji.github.io/reading-notes/Read35)|
 | *Read36* |[DSA Review](https://hadeaji.github.io/reading-notes/Read36)|
 | *Read37* |[React 1](https://hadeaji.github.io/reading-notes/Read37)|
+| *Read38* |[React 2](https://hadeaji.github.io/reading-notes/Read38)|
