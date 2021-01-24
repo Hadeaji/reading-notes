@@ -81,3 +81,4 @@ I prefer not to mention
 | *Read37* |[React 1](https://hadeaji.github.io/reading-notes/Read37)|
 | *Read38* |[React 2](https://hadeaji.github.io/reading-notes/Read38)|
 | *Read39* |[React 3](https://hadeaji.github.io/reading-notes/Read39)|
+| *customRead* |[Ethics](https://hadeaji.github.io/reading-notes/Read40)|
